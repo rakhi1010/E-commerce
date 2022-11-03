@@ -1,0 +1,75 @@
+/* body {
+  background-color: #f6f1e8;
+} */
+.row {
+  margin-top: 50px;
+}
+img {
+  width: 100%;
+}
+button {
+  margin-top: 10px;
+}
+span {
+  background-color: gray;
+  color: white;
+}
+button:hover {
+  background-color: rgb(85, 78, 78);
+  color: white;
+  /* width: 120px;
+  height: 40px;
+  border-radius: 10px; */
+}
+.hedaer {
+  text-align: center;
+  margin-top: 30px;
+  background-color: aliceblue;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+.heading {
+  padding-top: 100px;
+}
+
+.login,
+.heading,
+.h1 {
+  margin-left: 10px;
+  margin-right: 40px;
+}
+.login {
+  margin-top: 20px;
+}
+
+.login-btn {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.container text-center,
+img {
+  height: 300px;
+}
+.Footer,
+.container text-center {
+  background-color: aliceblue;
+  margin-top: 100px;
+  font-size: large;
+  font-weight: 300;
+  text-align: left;
+}
+.highlight {
+  color: red;
+  margin-left: 20px;
+  font-size: larger;
+}
+.header {
+  background-color: rgb(198, 218, 234);
+}
+button {
+  margin: 5px;
+}
